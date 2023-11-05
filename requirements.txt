@@ -1,0 +1,4 @@
+jupyter-bokeh
+python-dotenv
+panel
+openai
